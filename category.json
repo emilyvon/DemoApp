@@ -1,0 +1,76 @@
+{
+	"sub1":	[
+
+				{"name": "Electronic",
+				 "sub2": 
+				 	[
+				 		{"name": "Mobile", 
+				 		"sub3": 
+				 			[	
+				 				{"name": "Apple"},
+				 				{"name": "Samsung"}
+				 			] 
+				 		},
+				 		{"name": "Laptop",
+				 		"sub3":
+				 			[
+				 				{"name": "Apple"},
+				 				{"name": "IBM"}
+				 			]
+				 		},
+				 		{"name": "Tablet",
+				 		 "sub3":
+				 		 	[
+				 		 		{"name": "Apple"},
+				 				{"name": "Samsung"}
+				 		 	]
+				 		}
+				 	]
+				 },
+				{"name": "Home", 
+				 "sub2": 
+					[
+						{"name": "Living room",
+ 						 "sub3":
+ 						 	[
+ 						 		{"name": "Couch"},
+ 						 		{"name": "Carpet"}
+ 						 	]
+						},
+						{"name": "Bedroom",
+						 "sub3": 
+						 	[
+						 		{"name": "Pillow"},
+						 		{"name": "Blanket"}
+						 	]
+						},
+						{"name": "Bathroom",
+						 "sub3": 
+						 	[
+						 		{"name": "Washing machine"},
+						 		{"name": "Shower"}
+						 	]
+						}
+					]
+				},
+				{"name: "Kitchen", 
+				 "sub2": 
+				 	[
+				 		{"name": "Cooking ware",
+				 		 "sub3": 
+				 		 	[
+				 		 		{"name": "Cook top"},
+				 		 		{"name": "Frying pan"}
+				 		 	]
+				 		},
+				 		{"name": "Utensils",
+				 		 "sub3": 
+				 		 	[
+				 		 		{"name": "Knife"},
+				 		 		{"name": "Fork"}
+				 		 	]
+				 		}
+				 	]
+				 }
+			]
+}
